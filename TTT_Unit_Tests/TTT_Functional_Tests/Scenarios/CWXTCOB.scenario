@@ -9,7 +9,7 @@
         </parminfo>
       </Data>
     </Component>
-    <VerifyRemoteFile name="Verify remote file" mode="COMPARE" haltExecution="false" actualPath="HDAELG0.REPORT.FILE" expectedPath="HDAELG0.REPORT.FILE.GOLD" />
+    <VerifyRemoteFile name="Verify remote file" mode="COMPARE" haltExecution="false" actualPath="HDAELG0.TOTAL.TEST.REPORT.GDG(0)" expectedPath="HDAELG0.REPORT.FILE.GOLD" />
   </Test>
   <MetaData>
     <Component name="CWXTCOB" type="COBOL">
